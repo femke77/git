@@ -5,7 +5,6 @@ $(function () {
       changeMonth: true,
       changeYear: true,
     });
-<<<<<<< HEAD
   });
 
   // Autocomplete widget
@@ -41,6 +40,5 @@ $(function () {
       placeholder: 'ui-state-highlight',
     });
     $('#skills-list').disableSelection();
-=======
->>>>>>> parent of d2ab514 (added skills name)
+
   });
