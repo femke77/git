@@ -8,3 +8,7 @@ $(function () {
   });
 
   function isThisWorking() {}
+
+  function continuteWorking() {}
+
+  function howAreYou(){}
