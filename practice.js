@@ -9,3 +9,5 @@ $(function () {
 
   function isThisWorking() {}
 
+  function continutingWork(){}
+
