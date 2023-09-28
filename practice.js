@@ -9,8 +9,9 @@ $(function () {
 
 
 
+
   function continuteWorking() {
     console.log("hi");
   }
 
-  function howAreYou(){}
+
