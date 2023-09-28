@@ -7,10 +7,11 @@ $(function () {
     });
   });
 
-  function isThisWorking() {}
 
-  function continutingWork(){}
 
-  function anotherRevertIsComing(){}
 
-  //testing another cool command here
+  function continuteWorking() {
+    console.log("hi");
+  }
+
+
