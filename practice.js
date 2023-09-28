@@ -7,8 +7,10 @@ $(function () {
     });
   });
 
-  function isThisWorking() {}
+  function isThisWorkingNow() {}
 
-  function continuteWorking() {}
+  function continuteWorking() {
+    console.log("fun");
+  }
 
   function howAreYou(){}
