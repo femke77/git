@@ -7,10 +7,10 @@ $(function () {
     });
   });
 
-  function isThisWorkingNow() {}
+
 
   function continuteWorking() {
-    console.log("fun");
+    console.log("hi");
   }
 
   function howAreYou(){}
